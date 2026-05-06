@@ -1,0 +1,32 @@
+Country Name,Avg Debt (%),Avg Elite Ratio,Avg GDP Growth (%),> Abs Min (102.5%),> Max +1σ (98.9%),> Max +3σ (67.3%)
+Australia,37.42,11.59,2.44,NO,NO,NO
+Austria,81.14,27.84,1.15,NO,NO,YES
+Belgium,103.68,6.67,1.35,YES,YES,YES
+Canada,92.97,4.3,1.77,NO,NO,YES
+Czech Republic,37.85,11.74,1.56,NO,NO,NO
+Denmark,43.46,13.29,1.25,NO,NO,NO
+Estonia,11.6,78.9,1.88,NO,NO,NO
+Finland,63.17,22.82,0.31,NO,NO,NO
+France,97.94,11.73,0.96,NO,NO,YES
+Germany,70.55,17.8,1.13,NO,NO,YES
+Greece,177.48,-26.74,-1.35,YES,YES,YES
+Iceland,98.04,2.62,1.72,NO,NO,YES
+Indonesia,29.63,20.93,4.7,NO,NO,NO
+Ireland,76.91,-21.17,6.35,NO,NO,YES
+Israel,64.89,16.62,3.93,NO,NO,NO
+Italy,132.57,23.19,0.13,YES,YES,YES
+Japan,230.98,12.74,0.41,YES,YES,YES
+Latvia,39.7,16.51,1.07,NO,NO,NO
+Lithuania,38.54,11.69,2.34,NO,NO,NO
+Luxembourg,21.24,16.04,1.95,NO,NO,NO
+Netherlands,57.73,6.46,1.38,NO,NO,NO
+Norway,37.25,14.73,1.36,NO,NO,NO
+Portugal,120.6,17.69,0.68,YES,YES,YES
+Slovakia,50.56,5.35,2.06,NO,NO,NO
+Slovenia,66.35,8.62,1.33,NO,NO,NO
+South Korea,38.1,39.88,3.01,NO,NO,NO
+Spain,94.56,8.46,0.66,NO,NO,YES
+Sweden,39.76,-6.44,1.79,NO,NO,NO
+Switzerland,41.33,15.42,1.69,NO,NO,NO
+United Kingdom,87.44,12.59,1.34,NO,NO,YES
+United States,107.3,-82.06,1.99,YES,YES,YES

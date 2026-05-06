@@ -1,8 +1,10 @@
-# Ignore Conda environments
+# Ignore the Conda environment (THE CULPRIT)
 env/
+venv/
 .env
-data/raw/*.csv
-data/processed/*.csv
-.ipynb_checkpoints/
-__pycache__/
+
+# Ignore OS junk
 .DS_Store
+
+# DO NOT ignore the data folder
+# (We leave this blank so data/ is included)

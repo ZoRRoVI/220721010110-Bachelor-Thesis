@@ -1,0 +1,8 @@
+# Ignore Conda environments
+env/
+.env
+data/raw/*.csv
+data/processed/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

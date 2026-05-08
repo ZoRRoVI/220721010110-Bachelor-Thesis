@@ -1,7 +1,7 @@
-Country Name,Avg Debt (%),Avg GDP Growth (%),> Abs Min (23.0%),> Max +1σ (71.3%),> Max +3σ (79.8%)
-Brazil,67.37,3.71,YES,NO,NO
-China,24.04,10.02,YES,NO,NO
-Egypt,83.45,5.14,YES,YES,YES
-India,76.27,6.37,YES,YES,NO
-Russia,41.34,5.79,YES,NO,NO
+Country Name,Current Debt (%),Avg GDP Growth (%),> Abs Min (23.0%),> Max +1σ (71.3%),> Max +3σ (79.8%)
+Brazil,61.42,3.71,YES,NO,NO
+China,26.72,10.02,YES,NO,NO
+Egypt,66.76,5.14,YES,NO,NO
+India,74.37,6.37,YES,YES,NO
+Russia,7.45,5.79,NO,NO,NO
 United Arab Emirates,8.95,3.19,NO,NO,NO

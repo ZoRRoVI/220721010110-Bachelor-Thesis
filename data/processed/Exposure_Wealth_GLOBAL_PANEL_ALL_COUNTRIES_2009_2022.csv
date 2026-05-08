@@ -1,16 +1,24 @@
-Country Name,Current Debt (%),Avg Elite Ratio,Avg GDP Growth (%),> Abs Min (102.5%),> Max +1σ (98.9%),> Max +3σ (67.3%)
+Country Name,Current Debt (%),Avg Elite Ratio,Avg GDP Growth (%),> Abs Min (92.2%),> Max +1σ (94.8%),> Max +3σ (69.1%)
 Australia,50.22,11.59,2.44,NO,NO,NO
 Austria,78.34,27.84,1.15,NO,NO,YES
 Belgium,102.56,6.67,1.35,YES,YES,YES
+Brazil,83.94,33.98,1.34,NO,NO,YES
 Canada,104.21,4.3,1.77,YES,YES,YES
+Chile,37.91,39.28,2.82,NO,NO,NO
+China,75.45,9.98,7.15,NO,NO,YES
+Colombia,61.3,35.01,3.52,NO,NO,NO
+Costa Rica,63.5,20.37,3.22,NO,NO,NO
 Czech Republic,42.52,11.74,1.56,NO,NO,NO
 Denmark,34.08,13.29,1.25,NO,NO,NO
+Egypt,88.53,15.13,4.01,NO,NO,YES
 Estonia,19.11,78.9,1.88,NO,NO,NO
 Finland,74.03,22.82,0.31,NO,NO,YES
 France,111.36,11.73,0.96,YES,YES,YES
 Germany,65.0,17.8,1.13,NO,NO,NO
 Greece,178.44,-26.74,-1.35,YES,YES,YES
-Iceland,67.53,2.62,1.72,NO,NO,YES
+Hungary,73.86,14.8,2.09,NO,NO,YES
+Iceland,67.53,2.62,1.72,NO,NO,NO
+India,82.17,9.87,6.12,NO,NO,YES
 Indonesia,40.14,20.93,4.7,NO,NO,NO
 Ireland,43.15,-21.17,6.35,NO,NO,NO
 Israel,60.47,16.62,3.93,NO,NO,NO
@@ -21,12 +29,16 @@ Lithuania,38.06,11.69,2.34,NO,NO,NO
 Luxembourg,24.9,16.04,1.95,NO,NO,NO
 Netherlands,48.35,6.46,1.38,NO,NO,NO
 Norway,36.11,14.73,1.36,NO,NO,NO
+Poland,48.79,-67.83,3.62,NO,NO,NO
 Portugal,111.23,17.69,0.68,YES,YES,YES
+Russia,18.48,21.31,1.02,NO,NO,NO
 Slovakia,57.57,5.35,2.06,NO,NO,NO
 Slovenia,72.74,8.62,1.33,NO,NO,YES
 South Korea,49.8,39.88,3.01,NO,NO,NO
 Spain,109.4,8.46,0.66,YES,YES,YES
 Sweden,33.63,-6.44,1.79,NO,NO,NO
 Switzerland,37.19,15.42,1.69,NO,NO,NO
-United Kingdom,99.61,12.59,1.34,NO,YES,YES
+Turkey,30.8,17.99,5.24,NO,NO,NO
+United Arab Emirates,32.06,17.41,2.51,NO,NO,NO
+United Kingdom,99.61,12.59,1.34,YES,YES,YES
 United States,118.81,-82.06,1.99,YES,YES,YES

@@ -1,0 +1,43 @@
+Country Name,Current Debt (%),Avg GDP Growth (%),> Abs Min (43.1%),> Max +1σ (60.2%),> Max +3σ (92.2%)
+Australia,11.74,3.71,NO,NO,NO
+Austria,69.53,2.49,YES,YES,NO
+Belgium,93.16,2.37,YES,YES,YES
+Brazil,61.42,3.71,YES,YES,NO
+Canada,70.36,2.96,YES,YES,NO
+Chile,4.92,5.09,NO,NO,NO
+China,26.72,10.02,NO,NO,NO
+Colombia,32.38,3.06,NO,NO,NO
+Czech Republic,28.15,3.45,NO,NO,NO
+Denmark,35.54,2.11,NO,NO,NO
+Egypt,66.76,5.14,YES,YES,NO
+Estonia,4.67,6.1,NO,NO,NO
+Finland,32.56,3.8,NO,NO,NO
+France,69.82,2.25,YES,YES,NO
+Germany,65.16,1.58,YES,YES,NO
+Greece,110.91,3.5,YES,YES,YES
+Hungary,71.8,3.08,YES,YES,NO
+Iceland,110.36,4.43,YES,YES,YES
+India,74.37,6.37,YES,YES,NO
+Indonesia,30.25,5.16,NO,NO,NO
+Ireland,42.51,6.38,NO,NO,NO
+Israel,70.15,4.13,YES,YES,NO
+Italy,105.8,1.45,YES,YES,YES
+Japan,180.85,1.11,YES,YES,YES
+Latvia,16.95,6.32,NO,NO,NO
+Lithuania,14.59,6.1,NO,NO,NO
+Luxembourg,14.63,4.25,NO,NO,NO
+Netherlands,54.35,2.93,YES,NO,NO
+Norway,47.55,2.82,YES,NO,NO
+Poland,46.56,4.77,YES,NO,NO
+Portugal,75.64,2.39,YES,YES,NO
+Russia,7.45,5.79,NO,NO,NO
+Slovakia,28.61,5.06,NO,NO,NO
+Slovenia,21.89,4.15,NO,NO,NO
+South Korea,25.86,5.65,NO,NO,NO
+Spain,39.61,3.39,NO,NO,NO
+Sweden,37.95,2.96,NO,NO,NO
+Switzerland,44.82,2.11,YES,NO,NO
+Turkey,37.75,5.1,NO,NO,NO
+United Arab Emirates,8.95,3.19,NO,NO,NO
+United Kingdom,50.83,2.8,YES,NO,NO
+United States,73.59,3.0,YES,YES,NO

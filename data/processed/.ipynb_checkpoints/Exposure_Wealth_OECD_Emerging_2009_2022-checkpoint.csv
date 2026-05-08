@@ -1,0 +1,7 @@
+Country Name,Avg Debt (%),Avg Elite Ratio,Avg GDP Growth (%),> Abs Min (56.7%),> Max +1σ (60.9%),> Max +3σ (63.9%)
+Chile,20.59,39.28,2.82,NO,NO,NO
+Colombia,47.57,35.01,3.52,NO,NO,NO
+Costa Rica,45.13,20.37,3.22,NO,NO,NO
+Hungary,75.42,14.8,2.09,YES,YES,YES
+Poland,52.01,-67.83,3.62,NO,NO,NO
+Turkey,33.26,17.99,5.24,NO,NO,NO

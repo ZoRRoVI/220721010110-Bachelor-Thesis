@@ -1,32 +1,32 @@
-Country Name,Avg Debt (%),Avg GDP Growth (%),> Abs Min (65.7%),> Max +1σ (73.7%),> Max +3σ (77.7%)
-Australia,37.42,2.44,NO,NO,NO
-Austria,81.14,1.15,YES,YES,YES
-Belgium,103.68,1.35,YES,YES,YES
-Canada,92.97,1.77,YES,YES,YES
-Czech Republic,37.85,1.56,NO,NO,NO
-Denmark,43.46,1.25,NO,NO,NO
-Estonia,11.6,1.88,NO,NO,NO
-Finland,63.17,0.31,NO,NO,NO
-France,97.94,0.96,YES,YES,YES
-Germany,70.55,1.13,YES,NO,NO
-Greece,177.48,-1.35,YES,YES,YES
-Iceland,98.04,1.72,YES,YES,YES
-Indonesia,29.63,4.7,NO,NO,NO
-Ireland,76.91,6.35,YES,YES,NO
-Israel,64.89,3.93,NO,NO,NO
-Italy,132.57,0.13,YES,YES,YES
-Japan,230.98,0.41,YES,YES,YES
-Latvia,39.7,1.07,NO,NO,NO
-Lithuania,38.54,2.34,NO,NO,NO
-Luxembourg,21.24,1.95,NO,NO,NO
-Netherlands,57.73,1.38,NO,NO,NO
-Norway,37.25,1.36,NO,NO,NO
-Portugal,120.6,0.68,YES,YES,YES
-Slovakia,50.56,2.06,NO,NO,NO
-Slovenia,66.35,1.33,YES,NO,NO
-South Korea,38.1,3.01,NO,NO,NO
-Spain,94.56,0.66,YES,YES,YES
-Sweden,39.76,1.79,NO,NO,NO
-Switzerland,41.33,1.69,NO,NO,NO
-United Kingdom,87.44,1.34,YES,YES,YES
-United States,107.3,1.99,YES,YES,YES
+Country Name,Current Debt (%),Avg GDP Growth (%),> Abs Min (65.7%),> Max +1σ (73.7%),> Max +3σ (77.7%)
+Australia,50.22,2.44,NO,NO,NO
+Austria,78.34,1.15,YES,YES,YES
+Belgium,102.56,1.35,YES,YES,YES
+Canada,104.21,1.77,YES,YES,YES
+Czech Republic,42.52,1.56,NO,NO,NO
+Denmark,34.08,1.25,NO,NO,NO
+Estonia,19.11,1.88,NO,NO,NO
+Finland,74.03,0.31,YES,YES,NO
+France,111.36,0.96,YES,YES,YES
+Germany,65.0,1.13,NO,NO,NO
+Greece,178.44,-1.35,YES,YES,YES
+Iceland,67.53,1.72,YES,NO,NO
+Indonesia,40.14,4.7,NO,NO,NO
+Ireland,43.15,6.35,NO,NO,NO
+Israel,60.47,3.93,NO,NO,NO
+Italy,138.35,0.13,YES,YES,YES
+Japan,248.31,0.41,YES,YES,YES
+Latvia,44.43,1.07,NO,NO,NO
+Lithuania,38.06,2.34,NO,NO,NO
+Luxembourg,24.9,1.95,NO,NO,NO
+Netherlands,48.35,1.38,NO,NO,NO
+Norway,36.11,1.36,NO,NO,NO
+Portugal,111.23,0.68,YES,YES,YES
+Slovakia,57.57,2.06,NO,NO,NO
+Slovenia,72.74,1.33,YES,NO,NO
+South Korea,49.8,3.01,NO,NO,NO
+Spain,109.4,0.66,YES,YES,YES
+Sweden,33.63,1.79,NO,NO,NO
+Switzerland,37.19,1.69,NO,NO,NO
+United Kingdom,99.61,1.34,YES,YES,YES
+United States,118.81,1.99,YES,YES,YES

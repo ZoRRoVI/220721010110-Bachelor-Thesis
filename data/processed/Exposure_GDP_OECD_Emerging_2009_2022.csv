@@ -1,7 +1,7 @@
-Country Name,Avg Debt (%),Avg GDP Growth (%),> Abs Min (30.9%),> Max +1σ (32.5%),> Max +3σ (47.9%)
-Chile,20.59,2.82,NO,NO,NO
-Colombia,47.57,3.52,YES,YES,NO
-Costa Rica,45.13,3.22,YES,YES,NO
-Hungary,75.42,2.09,YES,YES,YES
-Poland,52.01,3.62,YES,YES,YES
-Turkey,33.26,5.24,YES,YES,NO
+Country Name,Current Debt (%),Avg GDP Growth (%),> Abs Min (30.9%),> Max +1σ (32.5%),> Max +3σ (47.9%)
+Chile,37.91,2.82,YES,YES,NO
+Colombia,61.3,3.52,YES,YES,YES
+Costa Rica,63.5,3.22,YES,YES,YES
+Hungary,73.86,2.09,YES,YES,YES
+Poland,48.79,3.62,YES,YES,YES
+Turkey,30.8,5.24,NO,NO,NO

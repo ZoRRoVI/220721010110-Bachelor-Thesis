@@ -1,0 +1,7 @@
+Country Name,Avg Debt (%),Avg Elite Ratio,Avg GDP Growth (%),> Abs Min (19.4%),> Max +1σ (19.7%),> Max +3σ (47.0%)
+Brazil,61.42,33.85,5.09,YES,YES,YES
+China,26.72,4.94,9.67,YES,YES,NO
+Egypt,66.76,16.31,7.16,YES,YES,YES
+India,74.37,9.97,3.09,YES,YES,YES
+Russia,7.45,13.3,5.2,NO,NO,NO
+United Arab Emirates,8.95,31.03,3.19,NO,NO,NO
